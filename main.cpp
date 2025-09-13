@@ -1,5 +1,5 @@
 //This class tests the utility of the EnglishDictionary class I programmed.
-//Programmed by Maria Psomas :)
+//Programmed by Badtothebunny
 
 //necessary #include statements 
 #include "EnglishDictionary.h"
@@ -54,3 +54,4 @@ int main(int argc, char** argv)
 	test.printDictionary(false,test.uniqueWords());
 	return 0;
 }
+
