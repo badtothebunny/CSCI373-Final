@@ -1,4 +1,4 @@
-//NodeDictionaryG class programmed by Maria Psomas :)
+//NodeDictionaryG class programmed by Badtothebunny
 
 #ifndef NODEDICTIONARYG_H
 #define NODEDICTIONARYG_H
@@ -42,3 +42,4 @@ class NodeDictionaryG: public DictionaryG<IteratorG<K,V>, Range<K,V>, K, V>
 };
 
 #endif 
+
