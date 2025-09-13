@@ -1,4 +1,4 @@
-//Entry class programmed by Maria Psomas :)
+//Entry class programmed by Badtothebunny
 
 #include "Entry.h"
 
@@ -41,3 +41,4 @@ void Entry<K, V>::setV(const V &v)
 }
 
 template class Entry<string,string>;
+
