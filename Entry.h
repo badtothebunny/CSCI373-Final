@@ -1,4 +1,4 @@
-//Entry Class Programmed by Maria Psomas :)
+//Entry Class Programmed by Badtothebunny
 
 #ifndef ENTRY_H_
 #define ENTRY_H_
@@ -31,3 +31,4 @@ class Entry
 };
 
 #endif /* ENTRY_H_ */
+
