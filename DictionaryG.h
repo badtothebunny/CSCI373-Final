@@ -1,4 +1,4 @@
-//DictionaryG ADT written by Maria Psomas
+//DictionaryG ADT written by Badtothebunny
 
 #ifndef _INTERFACE_DICTIONARYG_H
 #define _INTERFACE_DICTIONARYG_H
@@ -26,3 +26,4 @@ class DictionaryG
 
 
 #endif 
+
