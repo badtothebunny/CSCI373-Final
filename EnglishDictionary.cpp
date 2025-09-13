@@ -1,4 +1,4 @@
-//EnglishDictionary class programmed by Maria Psomas :)
+//EnglishDictionary class programmed by Badtothebunny
 
 #include "EnglishDictionary.h"
 #include "IteratorG.h"
@@ -124,3 +124,4 @@ Entry<string,string> EnglishDictionary::find(string given)
 	eE.setV(vV);
 	return eE;
 }
+
