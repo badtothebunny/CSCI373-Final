@@ -1,4 +1,4 @@
-//EnglishDictionary class programmed by Maria Psomas :)
+//EnglishDictionary class programmed by Badtothebunny
 
 #ifndef ENGLISHDICTIONARY_H
 #define ENGLISHDICTIONARY_H
@@ -26,3 +26,4 @@ class EnglishDictionary
 };
 
 #endif
+
