@@ -1,4 +1,4 @@
-//NodeDictionaryG class programmed by Maria Psomas :)
+//NodeDictionaryG class programmed by Badtothebunny
 
 #include "NodeDictionaryG.h"
 
@@ -189,3 +189,4 @@ int NodeDictionaryG<K,V>::findNumber(K k)
 
 //template classes
 template class NodeDictionaryG<string,string>;
+
